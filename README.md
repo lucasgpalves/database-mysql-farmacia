@@ -1,5 +1,5 @@
 # Modelagem de Banco de Dados Farmácia
-Projeto simples de modelagem de um Banco de Dados de uma farmácia
+Projeto simples de modelagem de um Banco de Dados de uma farmácia <br>
 _Desenvolvido no curso Banco de Dados SQL e NoSQL da GeekUniversity na Udemy_
 
 ![MER](media/mer-farmacia.png)
